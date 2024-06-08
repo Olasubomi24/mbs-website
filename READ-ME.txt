@@ -1,0 +1,9 @@
+  =>  Template Name    : MBS LIMITED - CCTV Camera Website Template
+
+  =>  Template Link    : /cctv-camera-website-template
+
+  =>  Template License : /license (or read the LICENSE.txt file)
+
+  =>  Template Author  : Macrotel
+
+  =>  Author Website   : 
